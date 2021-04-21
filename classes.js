@@ -1,3 +1,7 @@
+/*
+  Any classes used in the project
+*/
+
 class Player { //all player variables
   constructor(x,y,z,p,l,d) {
     //define and store camera position
